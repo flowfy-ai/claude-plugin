@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flowfy": {
+      "type": "http",
+      "url": "https://api.tryflowfy.com/mcp"
+    }
+  }
+}

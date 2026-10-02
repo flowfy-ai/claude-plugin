@@ -1,0 +1,19 @@
+{
+  "name": "flowfy",
+  "displayName": "Flowfy",
+  "version": "1.0.0",
+  "description": "Read-only analyst for your store and ads: what happened, why, what it cost and what to do next, grounded in your Flowfy data.",
+  "author": {
+    "name": "Flowfy",
+    "email": "support@tryflowfy.com",
+    "url": "https://tryflowfy.com"
+  },
+  "homepage": "https://tryflowfy.com",
+  "license": "proprietary",
+  "keywords": ["ecommerce", "analytics", "attribution", "ads", "salla", "zid", "shopify"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://tryflowfy.com/docs",
+  "supportUrl": "https://tryflowfy.com/docs",
+  "privacyPolicyUrl": "https://tryflowfy.com/privacy",
+  "termsOfServiceUrl": "https://tryflowfy.com/terms"
+}

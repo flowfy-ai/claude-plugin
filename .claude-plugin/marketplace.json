@@ -1,0 +1,18 @@
+{
+  "name": "flowfy",
+  "owner": {
+    "name": "Flowfy",
+    "email": "support@tryflowfy.com",
+    "url": "https://tryflowfy.com"
+  },
+  "description": "Flowfy for Claude: store and ads analytics connector plus decision skills.",
+  "plugins": [
+    {
+      "name": "flowfy",
+      "source": "./",
+      "displayName": "Flowfy",
+      "category": "analytics",
+      "tags": ["ecommerce", "attribution", "ads"]
+    }
+  ]
+}
